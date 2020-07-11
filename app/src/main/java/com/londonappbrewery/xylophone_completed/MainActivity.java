@@ -28,8 +28,6 @@ public class MainActivity extends AppCompatActivity {
     int mBSoundId;
 
 
-    int var_test ;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
